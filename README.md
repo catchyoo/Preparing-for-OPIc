@@ -35,7 +35,7 @@
 4) 최대한 자연스럽게 말하기 + 적절한 감정을 실어 이야기 하기
 * 자기 소개 문제 => **항상 1번**으로 출제
 * 설문 주제 => Background Survey에서 자신이 선택한 항목들 중 일부에 대해 묻는 문제
-  : 학생,직장 : 1~1번 질문과 연관있는 문제 
+  : 학생,직장 : 1~2번 질문과 연관있는 문제 
   ex) You indicated that you're a student. What is your major? Why did you choose that specific major? What do you learn in ypur classes?
       = 당신은 학생이라고 했습니다. 당신의 전공은 무엇인가요? 그 전공을 택한 이유는 무엇인가요? 수업에서는 무엇을 배우나요?
   : 거주지 : 3번 질문과 연관있는 문제
