@@ -63,3 +63,6 @@
 ## 자기 소개하기
  - 오픽 시험의 항상 1번 문제로 출제. 워밍업을 통해 자신 있게 시작하기!!!
 **Q) Let's start the interview now. Tell me a little bit about yourself.**
+A) My name is Jiwon Yoo. I am 27 years old. I live in a small apartment in seoul with my older brother. It is a little cramped, but i like it.
+I'm currently a senior majoring in electronic engineering. I chose this major because electronic is a subject that has always fascinated me. I find my classes to be challenging but interesting. Mt hobbies these dats include hiking and rock climbing. I generally prefer oudoor activities that i can do with other people. Evey wekend, I go to the mountains around Seoul. It is a great way to relax and get some exercise. People have told me that i have an outgoing personality. In fact, i have many friends and acquaintances. Someday i hope to work for a electronical company. The competition is fierce in today's job market, so i study hard to make my dream a reality.
+**Q) 대상 설명 하기** 
