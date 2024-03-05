@@ -35,13 +35,13 @@
 4) 최대한 자연스럽게 말하기 + 적절한 감정을 실어 이야기 하기
 * 자기 소개 문제 => **항상 1번**으로 출제
 * 설문 주제 => Background Survey에서 자신이 선택한 항목들 중 일부에 대해 묻는 문제
-  : 학생,직장 : 1~2번 질문과 연관있는 문제 
+  : 학생,직장 : 1-2번 질문과 연관있는 문제 
   ex) You indicated that you're a student. What is your major? Why did you choose that specific major? What do you learn in ypur classes?
       = 당신은 학생이라고 했습니다. 당신의 전공은 무엇인가요? 그 전공을 택한 이유는 무엇인가요? 수업에서는 무엇을 배우나요?
   : 거주지 : 3번 질문과 연관있는 문제
   ex) Please tell me about your house. What's your favorite room? What does it look like? Why do you like that room?
       = 당신의 집에 대해서 이야기해 주세요. 당신이 가장 좋아하는 방은 어디인가요? 그곳은 어떻게 생겼나요? 왜 그방을 좋아하나요?
-  : 그 외 설문 주제 : 4~7번과 연관있는 문제
+  : 그 외 설문 주제 : 4-7번과 연관있는 문제
 * 돌발 주제 => Background Survey의 선택 항목에 없는 주제들
   - Self Assessment에서 높은 난이도를 선택할수록 돌발 주제가 시험에 나올 확률 높음
   - 평균적으로 한 주제씩 출제
